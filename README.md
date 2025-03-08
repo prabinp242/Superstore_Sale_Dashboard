@@ -1,3 +1,3 @@
 # Superstore Sale Dashboard
-## rainforcement project
+## Rainforcement project
 Analyze sales data to identify trends, improve performance, and provide insights.
