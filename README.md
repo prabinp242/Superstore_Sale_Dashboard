@@ -41,6 +41,8 @@ Analyze sales data to identify trends, improve performance, and provide insights
     -Bold and freeze the header,
     -Proper alignment,
     -Sale and profit values convert to currency value.
+   - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Macro%20used.png">Macro</a>
+  
 ## PIVOT TABLE
   A pivot table is a table of values which are aggregations of groups of individual values from a more extensive table within one or more discrete categories.
     -Year wise sale,
@@ -48,16 +50,21 @@ Analyze sales data to identify trends, improve performance, and provide insights
     -State wise Sub-Category Count,
     -Segment wise selling Quantity,
     -Region wise customer count and State wise profit.
-  They are used for improve the sale and profit. 
+  They are used for improve the sale and profit.
+  - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Pivot%20tables.png">Pivot Tables</a>
+  
 ## SLICER
   A Slicer in Excel is a visual filter that allows users to quickly and easily filter data in PivotTables, PivotCharts, or tables. Slicers provide buttons that you can click to filter data instead of using 
   traditional dropdown filters, making it more intuitive and user-friendly.
     -Category
     -Region
     -Ship Mode
+    - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Slicer.png">Slicer</a>
+    
 ## DASHBOARD
   A dashboard is a visual display of key data and metrics, often used to monitor performance, track progress, and help with decision-making.
   Visualized data from pivot table. Now we can make proper decision for improve the Superstore sales.
+  - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Final%20Dashboard.png">Dashboard </a>
 
 
 
