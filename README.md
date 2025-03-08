@@ -30,6 +30,7 @@ Analyze sales data to identify trends, improve performance, and provide insights
   
 ## Power Query Editor
 - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Raw%20Data.png"> Power Raw Data </a>
+
 -Power Query Editor is used for clean this type of larger dataset.
 
 -Unwanted columns and duplicate values are removed by using power query editor. 
