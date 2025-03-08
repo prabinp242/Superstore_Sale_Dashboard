@@ -20,16 +20,21 @@ Analyze sales data to identify trends, improve performance, and provide insights
 ## Data Cleaning
   Raw data contains lot of unnecessary information, lot of duplicate values, order date and shipped date formats and more…
   Row ID column are not needed for our project. So data cleaning is the initial procedure.
-  - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Cleaned%20data.png"> Cleaned Data </a>
+  - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Raw%20Data.png"> Power Raw Data </a>
   
 ## Power Query Editor
   Power Query Editor is used for clean this type of larger dataset.
   Unwanted columns and duplicate values are removed by using power query editor. 
   Before had 9995 rows in the raw file. 
   We have 5010 rows of data after remove the duplicate value based on Order ID.
+   - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Power%20query%20editor.png"> Power Query Editor </a>
+   - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Cleaned%20data.png"> Cleaned Data </a>
+  
 ## Formulas
   Some simple formulas are used for find the maximum values minimum values sum of the columns.
   Adjusted Sales, Separate products counts and some extra details are get by using formulas.
+   - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Basic%20Formulas.png"> Power Query Editor </a>
+  
 ## MACRO
   A macro in Excel is a recorded sequence of actions or a set of instructions that automate repetitive tasks.
   I used macro is,
