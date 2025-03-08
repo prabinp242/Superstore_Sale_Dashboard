@@ -59,7 +59,7 @@ Analyze sales data to identify trends, improve performance, and provide insights
     -Category
     -Region
     -Ship Mode
-    - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Slicer.png">Slicer</a>
+  - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Slicer.png">Slicer</a>
     
 ## DASHBOARD
   A dashboard is a visual display of key data and metrics, often used to monitor performance, track progress, and help with decision-making.
