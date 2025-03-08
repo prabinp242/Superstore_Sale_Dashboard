@@ -18,9 +18,9 @@ Analyze sales data to identify trends, improve performance, and provide insights
 ## PROCEDURE
 
 ## Data Cleaning
-
   Raw data contains lot of unnecessary information, lot of duplicate values, order date and shipped date formats and more…
   Row ID column are not needed for our project. So data cleaning is the initial procedure.
+  - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Cleaned%20data.png"> Cleaned Data </a>
   
 ## Power Query Editor
   Power Query Editor is used for clean this type of larger dataset.
