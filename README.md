@@ -4,7 +4,7 @@ Analyze sales data to identify trends, improve performance, and provide insights
 
 ## Data set used
 - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Rainforcement%20Project.xlsx"> Superstore Sale Data </a>
-- <a href="(https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Final%20Dashboard.png)"> Final Dashboard </a>
+- <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Final%20Dashboard.png"> Final Dashboard </a>
 
 ## PROJECT  OVERVIEW
   Analyze sales data to identify trends, improve performance, and provide insights.
