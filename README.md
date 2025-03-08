@@ -11,8 +11,11 @@ Analyze sales data to identify trends, improve performance, and provide insights
 
 ## GOALS
   -Data Cleaning
+  
   -Automate Tasks Using Macros
+  
   -Create Pivot Table
+  
   -Make Dashboard
 
 ## PROCEDURE
