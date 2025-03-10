@@ -26,10 +26,8 @@ Analyze sales data to identify trends, improve performance, and provide insights
   -Row ID column are not needed for our project. So data cleaning is the initial procedure.
   
 - <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Raw%20Data.png"> Power Raw Data </a>
-- <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Raw%20Data.png"> Power Raw Data </a>
   
 ## Power Query Editor
-- <a href="https://github.com/prabinp242/Superstore_Sale_Dashboard/blob/main/Raw%20Data.png"> Power Raw Data </a>
 
 -Power Query Editor is used for clean this type of larger dataset.
 
